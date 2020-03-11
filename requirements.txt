@@ -2,3 +2,6 @@ python-dotenv
 requests
 uuid
 requests_oauthlib
+django
+gunicorn
+django-heroku
